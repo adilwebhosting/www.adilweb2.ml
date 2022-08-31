@@ -1,0 +1,1234 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 106px;
+	left: 0px;
+	width: 1440px;
+	height: 918px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -o-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -moz-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -ms-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+}
+
+
+#vector {
+	top: 30px;
+	left: 1307px;
+	width: 55.78px;
+	height: 50px;
+}
+
+
+#vector_ek1 {
+	top: 23px;
+	left: 80.71px;
+	width: 48.58px;
+	height: 64px;
+}
+
+#group_2 {
+	top: 38px;
+	left: 280px;
+	width: 880.76px;
+	height: 33px;
+}
+#group_1 {
+	top: 0px;
+	left: 0px;
+	width: 880.76px;
+	height: 33px;
+}
+
+#home {
+	top: 0px;
+	left: 0px;
+	width: 118.9px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#_about_us {
+	top: 0px;
+	left: 232px;
+	width: 175.79px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#shop {
+	top: 0px;
+	left: 521px;
+	width: 110.93px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#contact {
+	top: 0px;
+	left: 745px;
+	width: 164.41px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#beauty_with_brains {
+	top: 390px;
+	left: 90px;
+	width: 410px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 36px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_3 {
+	top: 510px;
+	left: 90px;
+	width: 679px;
+	height: 125px;
+}
+
+#that_our {
+	top: 0px;
+	left: 0px;
+	width: 381px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#approach_ensures {
+	top: 52px;
+	left: 0px;
+	width: 744px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#group_4 {
+	top: 713px;
+	left: 90px;
+	width: 233px;
+	height: 56px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 233px;
+	height: 56px;
+	-ms-border-radius: 55px;
+	-o-border-radius: 55px;
+	-moz-border-radius: 55px;
+	-webkit-border-radius: 55px;
+	border-radius: 55px;
+	background:rgba(255,255,255,1);
+}
+
+
+#buy_now {
+	top: 8px;
+	left: 34px;
+	width: 203px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_12 {
+	top: 897px;
+	left: 90px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_11 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_10 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_9 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_8 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_7 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_6 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_5 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#facebook_f_brands_1 {
+	top: 2px;
+	left: 0px;
+	width: 21.49px;
+	height: 34.39px;
+}
+
+#vector_ek2 {
+	top: 0.85px;
+	left: 1.54px;
+	width: 18.42px;
+	height: 34.39px;
+}
+
+#instagram_brands_1 {
+	top: 0px;
+	left: 121px;
+	width: 32.24px;
+	height: 36.85px;
+}
+
+#vector_ek3 {
+	top: 4px;
+	left: -0.01px;
+	width: 32.26px;
+	height: 32.25px;
+}
+
+#twitter_brands_1 {
+	top: 4px;
+	left: 254px;
+	width: 37px;
+	height: 37px;
+}
+
+#vector_ek4 {
+	top: 0.7px;
+	left: 0px;
+	width: 37px;
+	height: 30.05px;
+}
+
+
+#pngegg__2__1 {
+	top: 833px;
+	left: 905px;
+	width: 131px;
+	height: 131px;
+}
+
+
+#pngegg__2__2 {
+	top: 261px;
+	left: 860px;
+	width: 535px;
+	height: 535px;
+}
+
+
+#_pngegg__1__1 {
+	top: 820px;
+	left: 1219px;
+	width: 109px;
+	height: 163.5px;
+}
+
+
+#_pngegg_1 {
+	top: 839px;
+	left: 1073px;
+	width: 109px;
+	height: 123.47px;
+}
+
+#page_desktop___2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1_ek1 {
+	top: 106px;
+	left: 0px;
+	width: 1440px;
+	height: 918px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -o-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -moz-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -ms-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+}
+
+
+#vector_ek5 {
+	top: 30px;
+	left: 1307px;
+	width: 55.78px;
+	height: 50px;
+}
+
+
+#vector_ek6 {
+	top: 23px;
+	left: 80.71px;
+	width: 48.58px;
+	height: 64px;
+}
+
+#group_2_ek1 {
+	top: 38px;
+	left: 280px;
+	width: 880.76px;
+	height: 33px;
+}
+#group_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 880.76px;
+	height: 33px;
+}
+
+#home_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 118.9px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#_about_us_ek1 {
+	top: 0px;
+	left: 232px;
+	width: 175.79px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#shop_ek1 {
+	top: 0px;
+	left: 521px;
+	width: 110.93px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#contact_ek1 {
+	top: 0px;
+	left: 745px;
+	width: 164.41px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#beauty_with_brains_ek1 {
+	top: 390px;
+	left: 90px;
+	width: 410px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 36px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_3_ek1 {
+	top: 510px;
+	left: 90px;
+	width: 679px;
+	height: 125px;
+}
+
+#that_our_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 381px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#approach_ensures_ek1 {
+	top: 52px;
+	left: 0px;
+	width: 744px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#group_4_ek1 {
+	top: 713px;
+	left: 90px;
+	width: 233px;
+	height: 56px;
+}
+
+#rectangle_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 233px;
+	height: 56px;
+	-ms-border-radius: 55px;
+	-o-border-radius: 55px;
+	-moz-border-radius: 55px;
+	-webkit-border-radius: 55px;
+	border-radius: 55px;
+	background:rgba(255,255,255,1);
+}
+
+
+#buy_now_ek1 {
+	top: 8px;
+	left: 34px;
+	width: 203px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_12_ek1 {
+	top: 897px;
+	left: 90px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_11_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_10_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_9_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_8_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_6_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#facebook_f_brands_1_ek1 {
+	top: 2px;
+	left: 0px;
+	width: 21.49px;
+	height: 34.39px;
+}
+
+#vector_ek7 {
+	top: 0.85px;
+	left: 1.54px;
+	width: 18.42px;
+	height: 34.39px;
+}
+
+#instagram_brands_1_ek1 {
+	top: 0px;
+	left: 121px;
+	width: 32.24px;
+	height: 36.85px;
+}
+
+#vector_ek8 {
+	top: 4px;
+	left: -0.01px;
+	width: 32.26px;
+	height: 32.25px;
+}
+
+#twitter_brands_1_ek1 {
+	top: 4px;
+	left: 254px;
+	width: 37px;
+	height: 37px;
+}
+
+#vector_ek9 {
+	top: 0.7px;
+	left: 0px;
+	width: 37px;
+	height: 30.05px;
+}
+
+
+#_pngegg__2__1_ek1 {
+	top: 833px;
+	left: 905px;
+	width: 131px;
+	height: 131px;
+}
+
+
+#_pngegg__1__1_ek1 {
+	top: 820px;
+	left: 1219px;
+	width: 109px;
+	height: 163.5px;
+}
+
+
+#pngegg_1_ek1 {
+	top: 839px;
+	left: 1073px;
+	width: 109px;
+	height: 123.47px;
+}
+
+
+#pngegg_2 {
+	top: 232px;
+	left: 883px;
+	width: 519px;
+	height: 587.91px;
+}
+
+#page_desktop___3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1_ek2 {
+	top: 106px;
+	left: 0px;
+	width: 1440px;
+	height: 918px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -o-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -moz-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -ms-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+}
+
+
+#vector_ek10 {
+	top: 30px;
+	left: 1307px;
+	width: 55.78px;
+	height: 50px;
+}
+
+
+#vector_ek11 {
+	top: 23px;
+	left: 80.71px;
+	width: 48.58px;
+	height: 64px;
+}
+
+#group_2_ek2 {
+	top: 38px;
+	left: 280px;
+	width: 880.76px;
+	height: 33px;
+}
+#group_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 880.76px;
+	height: 33px;
+}
+
+#home_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 118.9px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#_about_us_ek2 {
+	top: 0px;
+	left: 232px;
+	width: 175.79px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#shop_ek2 {
+	top: 0px;
+	left: 521px;
+	width: 110.93px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#contact_ek2 {
+	top: 0px;
+	left: 745px;
+	width: 164.41px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#beauty_with_brains_ek2 {
+	top: 390px;
+	left: 90px;
+	width: 410px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 36px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_3_ek2 {
+	top: 510px;
+	left: 90px;
+	width: 679px;
+	height: 125px;
+}
+
+#that_our_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 381px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#approach_ensures_ek2 {
+	top: 52px;
+	left: 0px;
+	width: 744px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#group_4_ek2 {
+	top: 713px;
+	left: 90px;
+	width: 233px;
+	height: 56px;
+}
+
+#rectangle_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 233px;
+	height: 56px;
+	-ms-border-radius: 55px;
+	-o-border-radius: 55px;
+	-moz-border-radius: 55px;
+	-webkit-border-radius: 55px;
+	border-radius: 55px;
+	background:rgba(255,255,255,1);
+}
+
+
+#buy_now_ek2 {
+	top: 8px;
+	left: 34px;
+	width: 203px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_12_ek2 {
+	top: 897px;
+	left: 90px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_11_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_10_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_9_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_8_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_6_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_5_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#facebook_f_brands_1_ek2 {
+	top: 2px;
+	left: 0px;
+	width: 21.49px;
+	height: 34.39px;
+}
+
+#vector_ek12 {
+	top: 0.85px;
+	left: 1.54px;
+	width: 18.42px;
+	height: 34.39px;
+}
+
+#instagram_brands_1_ek2 {
+	top: 0px;
+	left: 121px;
+	width: 32.24px;
+	height: 36.85px;
+}
+
+#vector_ek13 {
+	top: 4px;
+	left: -0.01px;
+	width: 32.26px;
+	height: 32.25px;
+}
+
+#twitter_brands_1_ek2 {
+	top: 4px;
+	left: 254px;
+	width: 37px;
+	height: 37px;
+}
+
+#vector_ek14 {
+	top: 0.7px;
+	left: 0px;
+	width: 37px;
+	height: 30.05px;
+}
+
+
+#_pngegg__2__1_ek2 {
+	top: 833px;
+	left: 905px;
+	width: 131px;
+	height: 131px;
+}
+
+
+#pngegg__1__1_ek2 {
+	top: 820px;
+	left: 1219px;
+	width: 109px;
+	height: 163.5px;
+}
+
+
+#pngegg__1__2 {
+	top: 236px;
+	left: 907px;
+	width: 456px;
+	height: 684px;
+}
+
+
+#_pngegg_1_ek2 {
+	top: 839px;
+	left: 1073px;
+	width: 109px;
+	height: 123.47px;
+}
+
+#page_desktop___4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1_ek3 {
+	top: 106px;
+	left: 0px;
+	width: 1440px;
+	height: 918px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -o-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -moz-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: -ms-linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+	background: linear-gradient(-225deg , rgba(227.37,116.53,116.53,1) 0%, rgba(167.88,137.8,137.8,1) 44%, rgba(44.11,143.72,199.75,0.64) 100%);
+}
+
+
+#vector_ek15 {
+	top: 30px;
+	left: 1307px;
+	width: 55.78px;
+	height: 50px;
+}
+
+
+#vector_ek16 {
+	top: 23px;
+	left: 80.71px;
+	width: 48.58px;
+	height: 64px;
+}
+
+#group_2_ek3 {
+	top: 38px;
+	left: 280px;
+	width: 880.76px;
+	height: 33px;
+}
+#group_1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 880.76px;
+	height: 33px;
+}
+
+#home_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 118.9px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#about_us_ek3 {
+	top: 0px;
+	left: 232px;
+	width: 175.79px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#shop_ek3 {
+	top: 0px;
+	left: 521px;
+	width: 110.93px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+
+#contact_ek3 {
+	top: 0px;
+	left: 745px;
+	width: 164.41px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#4A4A4A;
+}
+
+#group_12_ek3 {
+	top: 897px;
+	left: 90px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_11_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_10_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_9_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_8_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_7_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_6_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#group_5_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 290.74px;
+	height: 41.3px;
+}
+#facebook_f_brands_1_ek3 {
+	top: 2px;
+	left: 0px;
+	width: 21.49px;
+	height: 34.39px;
+}
+
+#vector_ek17 {
+	top: 0.85px;
+	left: 1.54px;
+	width: 18.42px;
+	height: 34.39px;
+}
+
+#instagram_brands_1_ek3 {
+	top: 0px;
+	left: 121px;
+	width: 32.24px;
+	height: 36.85px;
+}
+
+#vector_ek18 {
+	top: 4px;
+	left: -0.01px;
+	width: 32.26px;
+	height: 32.25px;
+}
+
+#twitter_brands_1_ek3 {
+	top: 4px;
+	left: 254px;
+	width: 37px;
+	height: 37px;
+}
+
+#vector_ek19 {
+	top: 0.7px;
+	left: 0px;
+	width: 37px;
+	height: 30.05px;
+}
+
+
+#hi_iam_adil_hassan {
+	top: 442px;
+	left: 111px;
+	width: 500px;
+	height: 185px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#mask_group {
+	top: 274px;
+	left: 855px;
+	width: 476px;
+	height: 476px;
+}
+
+
+#web_designer {
+	top: 594px;
+	left: 112px;
+	width: 227px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_13 {
+	top: 917px;
+	left: 1093px;
+	width: 136px;
+	height: 56px;
+}
+#group_4_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 136px;
+	height: 56px;
+}
+
+#rectangle_2_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 136px;
+	height: 56px;
+	-ms-border-radius: 55px;
+	-o-border-radius: 55px;
+	-moz-border-radius: 55px;
+	-webkit-border-radius: 55px;
+	border-radius: 55px;
+	background:rgba(255,255,255,1);
+}
+
+
+#back {
+	top: 9px;
+	left: 24px;
+	width: 130px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#follow_me_ {
+	top: 877px;
+	left: 92px;
+	width: 128px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
